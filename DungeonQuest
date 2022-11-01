@@ -114,9 +114,9 @@ _G.fpsBoost = true
 -- UI Settings
 _G.edit_ui = false
 _G.UI_portait_image = 'rbxassetid://3157197640'
-_G.UI_health = "Peanut"
-_G.UI_money = "Peanut"
-_G.UI_name = "Peanut Quest"
+_G.UI_health = "KoScripts"
+_G.UI_money = "KoScripts"
+_G.UI_name = "Ko Scripts"
 _G.UI_xp = "66"
 _G.UI_lvl = "33"
  
